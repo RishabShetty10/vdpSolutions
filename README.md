@@ -6,3 +6,4 @@ Step2 Extract the zip file
 Step3 Download XAMPP
 Step4 Run Apache and MySQL--> Admin
 Step5 Type http://localhost/VDP_PROJECT2/VDP_PROJECT2 in the search engine.
+URL: https://nitesh067.github.io/VDP_SOLUTION_PROJECT/
